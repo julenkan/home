@@ -1,0 +1,21 @@
+Descomprima o contido do archivo *.rar (*=sigfrido1 o *=sigfrido2)respetando os directorios e a posición dos arquivos, para que a aplicación poda executarse sen problemas. O programa WinRAR podeó descargar dende :
+http://winrar.com.es/
+
+VERSIÓN 1
+
+Para poder visualizar correctamente a totalidade do contido só é necesário executar o arquivo "Sigfrido" que é un filme Flash e que se atopa no directorio raíz. Se non pode executá-lo directamente é por que non ten instalado o Flash player. Se este é o seu caso, pode instala-lo en: http://www.macromedia.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash
+
+Se non o ve pero non desexa instalar o flash player, saiba que pode utilizar o seu internet explorer para visualizar o arquivo. Para face-lo , calque sobre o arquivo Sigfrido descompremido co botón secundário do rato e no menú desplegabel, as opcións "abrir con..."/"Iexplorer". Se non o visualiza correctamente dende o Internet Explorer debe descargar o plugin correspondente, é gratuito. 
+
+VERSION 2
+Contén unha versión ejecutable.Só terá que facer dobre click sobre o arquivo sigfrido.exe do directorio raíz.
+
+
+Para o ver coa maior calidade aconsellamos-lle:
+
+	1	Copie o contido do CD no seu disco duro Local para evitar saltos producidos pola tardanza do Leitor de CD's
+
+	2	Poña a mínima configuración de pantalla (800*600) non perderá nada na calidade das imaxes e o procesador gañará moita velocidade xa que as imaxes serán mas manexábeis.
+...
+
+DISFRUTEO.
